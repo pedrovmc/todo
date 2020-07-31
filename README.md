@@ -1,7 +1,7 @@
 # Todo
 </h1>
 
-<p align="center">Manage your tasks</p>
+<p align="center">Manage your tasks. Long press to to mark a task as done.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
