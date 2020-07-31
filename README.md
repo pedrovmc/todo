@@ -11,7 +11,6 @@
 
 <div>
   <img src="https://user-images.githubusercontent.com/31806810/89064085-b158ab00-d33f-11ea-8587-dfd2f046ceb1.png" alt="demo" height="425">
-  <img src="https://user-images.githubusercontent.com/31806810/89064091-b4539b80-d33f-11ea-86fc-54d5d5643c5a.png" alt="demo" height="425">
   <img src="https://user-images.githubusercontent.com/31806810/89064098-b6b5f580-d33f-11ea-8599-4c9a6381ab09.png" alt="demo" height="425">
   <img src="https://user-images.githubusercontent.com/31806810/89064101-b9b0e600-d33f-11ea-8421-cf2a2142b31c.png" alt="demo" height="425">
   <img src="https://user-images.githubusercontent.com/31806810/89064111-bcabd680-d33f-11ea-834e-ab67411ae923.png" alt="demo" height="425">
